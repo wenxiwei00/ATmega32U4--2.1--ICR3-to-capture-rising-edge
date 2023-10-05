@@ -5,7 +5,8 @@
 ### 最快速度按开关，观察putty上ICR3的数值  
 输出的数值是ICR3此刻存的数值。当我按下开关，信号会有个上升沿。这个上升沿对应的时间会被存到ICR3里面，ICR3就会更新数值。  
 ![image](https://github.com/wenxiwei00/ATmega32U4--2.1--ICR3-to-capture-rising-edge/assets/114196821/b55fa9eb-1d88-48bf-a88e-adb422bb5a76)  
-<img src="[https://img-blog.csdnimg.cn/2020102116384135.png](https://github.com/wenxiwei00/ATmega32U4--2.1--ICR3-to-capture-rising-edge/assets/114196821/b55fa9eb-1d88-48bf-a88e-adb422bb5a76)" width="100px">
+<img src="https://github.com/wenxiwei00/ATmega32U4--2.1--ICR3-to-capture-rising-edge/assets/114196821/b55fa9eb-1d88-48bf-a88e-adb422bb5a76" width="50">  
+
 ### 可以根据图上的数据算出我按开关的速度  
 比如这里算的，我按键时间间隔是0.153s  
 ![image](https://github.com/wenxiwei00/ATmega32U4--2.1--ICR3-to-capture-rising-edge/assets/114196821/2ade2f1b-5013-42d4-8e04-e79288189868)
